@@ -18,7 +18,7 @@ progress analytics, study streak calculation, and REST API integrations.
 - [Example Workflow](#-example-workflow)
 - [Technical Highlights](#-technical-highlights)
 - [Future Improvements](#-future-improvements)
-- [Learning Objectives](#learning-objectives)
+- [Learning Objectives](#-learning-objectives)
 - [License](#-license)
 
 ---
@@ -163,7 +163,7 @@ All user data is stored in JSON format and automatically loaded on startup.
 
 ---
 
-# 📚 Learning Objectives
+## 📚 Learning Objectives
 
 This project was built to practice:
 
