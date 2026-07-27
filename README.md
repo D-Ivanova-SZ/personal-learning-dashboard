@@ -83,7 +83,7 @@ learning_dashboard/
 
 ---
 
-## Technologies
+## 🛠️ Technologies
 
 - Python 3
 - Requests
@@ -93,7 +93,7 @@ learning_dashboard/
 
 ---
 
-## Installation
+## ⚙️ Installation
 
 Clone the repository:
 
@@ -127,7 +127,7 @@ python app.py
 
 ---
 
-## Technical Highlights
+## 🛠️ Technical Highlights
 
 ### Modular Architecture
 
