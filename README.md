@@ -4,18 +4,21 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
-A modular Python console application for tracking learning goals, study sessions, and overall learning progress.
+A modular Python console application for managing learning goals and tracking study sessions with JSON persistence,
+progress analytics, study streak calculation, and REST API integrations.
 
 ## 📖 Table of Contents
 
 - [Overview](#-overview)
 - [Features](#-features)
 - [Screenshots](#-screenshots)
-- [Installation](#️-installation)
-- [Usage](#-usage)
 - [Project Structure](#-project-structure)
-- [APIs Used](#-apis-used)
 - [Technologies](#-technologies)
+- [Installation](#-installation)
+- [Example Workflow](#-example-workflow)
+- [Technical Highlights](#-technical-highlights)
+- [Future Improvements](#-future-improvements)
+- [Learning Objectives](#learning-objectives)
 - [License](#-license)
 
 ---
