@@ -1,0 +1,149 @@
+{
+  "goals": [
+    {
+      "id": "goal_1705123456",
+      "title": "Learn Python",
+      "description": "Complete Python Fundamentals",
+      "category": "Programming",
+      "target_hours": 80,
+      "completed_hours": 15.5,
+      "deadline": "2026-12-01",
+      "status": "active",
+      "created_at": "2026-01-10T10:00:00"
+    },
+    {
+      "id": "goal_1768527789",
+      "title": "Learn English",
+      "description": "Intermediate English",
+      "category": "Language",
+      "target_hours": 60,
+      "deadline": "2026-11-01",
+      "status": "active",
+      "created_at": "2026-01-15T13:43:09.771273"
+    },
+    {
+      "id": "goal_1768576632",
+      "title": "Learn Math",
+      "description": "Advanced Mathematics",
+      "category": "Math",
+      "target_hours": 10,
+      "deadline": "2026-09-26",
+      "status": "completed",
+      "created_at": "2026-01-16T13:17:12.303564"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "session_1705123789",
+      "goal_id": "goal_1705123456",
+      "date": "2026-01-12T14:30:00",
+      "duration_minutes": 90,
+      "topic": "Variables and types",
+      "notes": "Learned about variables and types"
+    },
+    {
+      "id": "session_1768349237",
+      "goal_id": "goal_1705123456",
+      "date": "2026-01-13T12:07:17.730590",
+      "duration_minutes": 300,
+      "topic": "Lists and tuples",
+      "notes": "Learned about lists and tuples"
+    },
+    {
+      "id": "session_1768529619",
+      "goal_id": "goal_1705123456",
+      "date": "2026-01-14T14:13:39.995202",
+      "duration_minutes": 180,
+      "topic": "OOP",
+      "notes": ""
+    },
+    {
+      "id": "session_1768530157",
+      "goal_id": "goal_1705123456",
+      "date": "2026-01-14T10:22:37.346721",
+      "duration_minutes": 120,
+      "topic": "Python functions",
+      "notes": ""
+    },
+    {
+      "id": "session_1768530249",
+      "goal_id": "goal_1768527789",
+      "date": "2026-01-14T10:34:09.852456",
+      "duration_minutes": 120,
+      "topic": "Grammar",
+      "notes": ""
+    },
+    {
+      "id": "session_1768530382",
+      "goal_id": "goal_1768527789",
+      "date": "2026-01-16T11:26:22.496463",
+      "duration_minutes": 240,
+      "topic": "Grammar tenses",
+      "notes": ""
+    },
+    {
+      "id": "session_1768530543",
+      "goal_id": "goal_1705123456",
+      "date": "2026-01-16T11:39:03.264597",
+      "duration_minutes": 120,
+      "topic": "OOP",
+      "notes": ""
+    },
+    {
+      "id": "session_1768576540",
+      "goal_id": "goal_1705123456",
+      "date": "2026-01-16T12:15:40.961507",
+      "duration_minutes": 300,
+      "topic": "Python functions",
+      "notes": ""
+    },
+    {
+      "id": "session_1768576680",
+      "goal_id": "goal_1768576632",
+      "date": "2026-01-16T12:18:00.820729",
+      "duration_minutes": 300,
+      "topic": "Set Theory",
+      "notes": ""
+    },
+    {
+      "id": "session_1768576717",
+      "goal_id": "goal_1768576632",
+      "date": "2026-01-16T14:18:37.477079",
+      "duration_minutes": 310,
+      "topic": "Functional Analysis",
+      "notes": ""
+    },
+    {
+      "id": "session_1768576896",
+      "goal_id": "goal_1705123456",
+      "date": "2026-01-16T14:21:36.897158",
+      "duration_minutes": 90,
+      "topic": "Magic methods",
+      "notes": ""
+    },
+    {
+      "id": "session_1768577070",
+      "goal_id": "goal_1768527789",
+      "date": "2026-01-16T15:24:30.055561",
+      "duration_minutes": 60,
+      "topic": "Irregular verbs",
+      "notes": "Notes"
+    },
+    {
+      "id": "session_1768577021",
+      "goal_id": "goal_1705123456",
+      "date": "2026-01-16T15:33:41.009651",
+      "duration_minutes": 60,
+      "topic": "Dictionaries",
+      "notes": "Notes"
+    },
+    {
+      "id": "session_1785163646",
+      "goal_id": "goal_1768527789",
+      "date": "2026-07-27T17:47:26.997706",
+      "duration_minutes": 60,
+      "topic": "Grammar tenses",
+      "notes": ""
+    }
+  ]
+}
